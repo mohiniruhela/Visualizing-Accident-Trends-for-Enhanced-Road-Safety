@@ -15,3 +15,6 @@ The dashboard utilizes road accident data, including information such as Acciden
 7. <b>Data Modeling</b>: Create data models to organize and structure the data for efficient analysis.
 8. <b>Data Visualizations/Charts Design</b>: Design visualizations and charts to effectively communicate key insights.
 9. <b>Dashboard Building</b>: Build the interactive dashboard using Power BI, incorporating filters, slicers, and drill-through options.
+
+# Final Dashboard
+![road-accident](https://github.com/mohiniruhela/Visualizing-Accident-Trends-for-Enhanced-Road-Safety/assets/136363867/b67cf1ba-7da0-4090-a750-b9488773cae9)
